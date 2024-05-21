@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://x.com/wang_cheng_xu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wang_cheng_xu" height="30" width="40" /></a>
 <a href="https://instagram.com/wang_cheng_xu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wang_cheng_xu" height="30" width="40" /></a>
-<a href="https://fb.com/wang_cheng_xu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wang_cheng_xu314" height="30" width="40" /></a>
+<a href="https://fb.com/wang_cheng_xu314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wang_cheng_xu" height="30" width="40" /></a>
 <a href="https://medium.com/@ethansivan314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ethansivan314" height="30" width="40" /></a>
 </p>
 
