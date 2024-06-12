@@ -4,7 +4,7 @@
 
 <p>🧑‍💻: I'm a passionate backend developer from China 🇨🇳</p>
 <p>🏢: Working for <a href="https://www.hydrax.io/">HYDRA X</a></p>
-<p>📍: Lives in Chengdu(🐼)</p>
+<p>📍: Living in Chengdu 🐼</p>
 <p>📫: How to reach me: <strong>ethansivan314@gmail.com</strong></p>
 <p>🏂: Hip Hop, Football 👉 
   <a href="https://www.instagram.com/realmadrid" target="blank"><img align="center" src="https://github.com/wangchengxu/wangchengxu/blob/main/src/image/icons/football/Real_Madrid_CF.png" alt="wang_cheng_xu" height="25" width="17.5" /></a> 
