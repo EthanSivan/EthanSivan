@@ -13,8 +13,8 @@
 </p>
 
 <p>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31asj5bsbm4g2zsogosxaufctwiu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31asj5bsbm4g2zsogosxaufctwiu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="Spotify Profile"/>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31asj5bsbm4g2zsogosxaufctwiu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31asj5bsbm4g2zsogosxaufctwiu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="Spotify Profile"/>
   </a>
 </p>
 
