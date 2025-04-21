@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, There is Ethan</h3>
+<h3 align="center">Hi 👋, There is Ethan Sivan</h3>
 
 <div align="center">
 
