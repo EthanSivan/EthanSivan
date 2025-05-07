@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<p>🧑‍💻: I'm a passionate backend developer from China 🇨🇳</p>
+<p>🧑‍💻: I'm a passionate backend developer from China</p>
 <!-- <p>🏢: Working for <a href="https://www.hydrax.io/">HYDRA X</a></p> -->
 <p>📍: Living in Chengdu 🐼</p>
 <p>📫: How to reach me: <strong>ethansivan314@gmail.com</strong></p>
