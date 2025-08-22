@@ -11,7 +11,7 @@
   & 
   <a href="https://www.instagram.com/equipedefrance" target="blank"><img align="center" src="https://github.com/ethansivan/ethansivan/blob/main/src/image/icons/football/France_Football.svg" alt="wang_cheng_xu" height="25" width="17.5" /></a>
 </p>
-<p><strong>P.S: I am very passionate about maintainability, scalability and modularity in code.<strong/></p>
+<p><strong>P.S. I am passionate about designing systems that prioritize maintainability, scalability, and modularity.<strong/></p>
 <p>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31asj5bsbm4g2zsogosxaufctwiu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31asj5bsbm4g2zsogosxaufctwiu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="Spotify Profile"/>
