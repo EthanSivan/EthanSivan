@@ -20,9 +20,9 @@
 
 <h3>Connect with me:</h3>
 <p>
-  <a href="https://instagram.com/wang_cheng_xu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wang_cheng_xu" height="30" width="40" /></a>
-  <a href="https://x.com/wang_cheng_xu" target="blank"><img align="center" src="https://github.com/ethansivan/ethansivan/blob/main/src/image/icons/social-media/X.png" alt="wang_cheng_xu" height="33" width="33" /></a>
-  <a href="https://fb.com/wangchengxu314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wang_cheng_xu" height="30" width="40" /></a>
+  <a href="https://instagram.com/ethansivan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ethansivan" height="30" width="40" /></a>
+  <a href="https://x.com/ethansivan314" target="blank"><img align="center" src="https://github.com/ethansivan/ethansivan/blob/main/src/image/icons/social-media/X.png" alt="ethansivan314" height="33" width="33" /></a>
+  <a href="https://fb.com/ethansivan314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ethansivan314" height="30" width="40" /></a>
   <a href="https://medium.com/@ethansivan314" target="blank"><img align="center" src="https://github.com/ethansivan/ethansivan/blob/main/src/image/icons/social-media/Medium.png" alt="@ethansivan314" height="36" width="36" /></a>
 </p>
 
